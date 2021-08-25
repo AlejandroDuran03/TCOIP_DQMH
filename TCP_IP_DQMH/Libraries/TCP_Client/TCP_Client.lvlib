@@ -108,4 +108,5 @@
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="CheckClientNumber.vi" Type="VI" URL="../CheckClientNumber.vi"/>
 </Library>
